@@ -1,0 +1,27 @@
+String greeting = 'Hello World'; 
+System.debug(greeting); 
+
+Boolean amIAwake = true; 
+System.debug(amIAwake); 
+
+Integer rollNumber = 11008899; 
+System.debug(rollNumber);
+
+Long worldPopulation = 7000000000L; 
+System.debug(worldPopulation);
+
+Decimal myGPA = 4.0;
+System.debug(myGPA); 
+
+Double speedOfLight = 93000000/186000; 
+System.debug(speedOfLight); 
+
+Date today = Date.newInstance(2024, 1, 31); 
+System.debug(today);
+
+Time currentTime = Time.newInstance(3, 25, 0, 0); 
+System.debug(currentTime);
+
+DateTime currentDateTime = DateTime.newInstance(2024, 1, 31, 3, 25, 0); 
+System.debug(currentDateTime); 
+
